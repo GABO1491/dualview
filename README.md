@@ -5,6 +5,21 @@
 <h1 align="center">DualView</h1>
 
 <p align="center">
+  <a href="https://dualview.ai">
+    <img src="https://img.shields.io/badge/Website-dualview.ai-ff5722?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://github.com/gokayfem">
+    <img src="https://img.shields.io/badge/GitHub-gokayfem-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://x.com/gokayfem">
+    <img src="https://img.shields.io/badge/X-@gokayfem-000000?style=for-the-badge&logo=x" alt="X">
+  </a>
+  <a href="https://huggingface.co/gokaygokay">
+    <img src="https://img.shields.io/badge/HuggingFace-gokaygokay-yellow?style=for-the-badge&logo=huggingface" alt="Hugging Face">
+  </a>
+</p>
+
+<p align="center">
   <strong>The Ultimate Comparison Tool for Creative Professionals</strong>
 </p>
 

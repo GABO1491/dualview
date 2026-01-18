@@ -28,6 +28,14 @@
   GPU-accelerated analysis • 100+ transitions • Frame-accurate sync • Real-time metrics
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24a2b466-a9d9-4b0a-990a-66b47b308357" alt="DualView Demo" width="100%">
+</p>
+
+<br>
+
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#comparison-modes">Modes</a> •

